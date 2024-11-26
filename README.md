@@ -1,6 +1,6 @@
 # Search Engine Project
 
-![Search Interface](./images/GUI_2.png)
+![Search Interface](./images/GUI_1.png)
 
 ## Disclaimer
 This repo is just a display of a course project for EECS 485 Web Systems @ University of Michigan. I'm excluding the code to comply with academic integrity policies.
@@ -42,7 +42,7 @@ Scalable search engine implementation featuring:
 - Provides clean search interface   
 
 ## Code Tree
-    ```
+    ```bash
 ├── bin
 │   ├── index
 │   ├── install
