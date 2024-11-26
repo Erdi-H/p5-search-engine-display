@@ -42,7 +42,6 @@ Scalable search engine implementation featuring:
 - Provides clean search interface   
 
 ## Code Tree
-    ```bash
 ├── bin
 │   ├── index
 │   ├── install
@@ -186,4 +185,3 @@ Scalable search engine implementation featuring:
     │   ├── index.log
     │   └── search.log
     └── search.sqlite3
-    ```
