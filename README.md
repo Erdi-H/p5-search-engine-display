@@ -43,7 +43,7 @@ Scalable search engine implementation featuring:
 
 ## Code Tree
 
-    ```plaintext
+<pre>
 ├── bin
 │   ├── index
 │   ├── install
@@ -187,4 +187,4 @@ Scalable search engine implementation featuring:
     │   ├── index.log
     │   └── search.log
     └── search.sqlite3
-    ```
+</pre>
