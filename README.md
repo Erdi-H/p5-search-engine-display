@@ -9,7 +9,7 @@ This repo is just a display of a course project for EECS 485 Web Systems @ Unive
 - **Frontend**: Jinja2, HTML, CSS
 - **Backend**: Python Flask, SQLite
 - **Data Processing**: MapReduce, Beautiful Soup
-- **Architecture**: Service-Oriented Architecture (SOA)
+- **Architecture**: Service-Oriented Architecture (SOA) 
 - **Deployment**: AWS (EC2)
 
 ![Search Results](./images/GUI_2.png)
